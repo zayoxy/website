@@ -1,6 +1,6 @@
 {
   "extends": "@vue/tsconfig",
-  "include": ["vite.config.*", "vitest.config.*", "cypress.config.*", "playwright.config.*"],
+  "include": ["vite.config.*", "vitest.config.*", "cypress.config.*", "playwright.config.*", "eslint.config.*"],
   "compilerOptions": {
     "composite": true,
     "types": ["node"]
