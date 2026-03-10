@@ -41,6 +41,8 @@ body {
   background-size: cover;
   font-family: NotoSans-Bold;
   color: white;
+  min-width: 100vw;
+  min-height: 100vh;
 }
 
 @media screen and (max-width: 1280px) {
