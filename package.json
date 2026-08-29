@@ -12,29 +12,29 @@
     "lint": "eslint . --fix --cache"
   },
   "dependencies": {
-    "pinia": "^4.0.2",
-    "vue": "^3.5.40",
+    "pinia": "^4.0.3",
+    "vue": "^3.5.41",
     "vue-router": "^5.2.0"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.16.1",
     "@types/jsdom": "^30.0.0",
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.3.0",
     "@vitejs/plugin-vue": "^6.0.8",
-    "@vitest/eslint-plugin": "^1.6.24",
+    "@vitest/eslint-plugin": "^1.6.27",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.9.0",
     "@vue/test-utils": "^2.4.11",
     "@vue/tsconfig": "^0.9.1",
-    "eslint": "^10.8.0",
+    "eslint": "^10.9.1",
     "eslint-plugin-vue": "^10.10.0",
     "jiti": "^2.7.0",
     "jsdom": "^30.0.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.9.6",
     "typescript": "~6.0.3",
-    "vite": "^8.1.5",
-    "vitest": "^4.1.10",
-    "vue-tsc": "^3.3.8"
+    "vite": "^8.2.2",
+    "vitest": "^4.1.11",
+    "vue-tsc": "^3.3.11"
   }
 }
